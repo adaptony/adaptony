@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**adaptony/adaptony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adaptony
 
-Here are some ideas to get you started:
+Welcome to my profile! I'm adaptony.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What'll I find here?
+
+My interests at the moment lie in contributing to FOSS and maintaining some open and closed source software as well.
+
+I'm very interested in UNIX-like operating systems - including Linux/GNU distributions and FreeBSD, so you might see some contributions to those platforms specifically.
+## PS
+
+I'll add some more information here once I see it fit!
+
+![Logo](https://avatars.githubusercontent.com/u/190098362?v=4)
+
